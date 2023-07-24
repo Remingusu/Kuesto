@@ -13,8 +13,8 @@
 
 #include "constants.hpp"
 #include "duckxiterator.hpp"
-#include <pugixml.hpp>
-#include <zip.h>
+#include "../thirdparty/pugixml/pugixml.hpp"
+#include "../thirdparty/zip/zip.h"
 
 // TODO: Use container-iterator design pattern!
 
